@@ -1,0 +1,5 @@
+{
+    "screenshotsFolder": "assets/screenshots",
+    "videosFolder": "assets/videos",
+    "baseUrl": "http://localhost:8081"
+}
