@@ -6,7 +6,7 @@ This repository contains the UI tests for Keycloak developed with Cypress framew
 ### Prerequisites
 * `Keycloak distribution` has to be [downloaded](https://www.keycloak.org/downloads) and started on 8081 port.  
 **note**: the port in at the test suite side in [cypress.json](cypress.json) or at the Keycloak side, see [Keycloak Getting Started Guide](https://www.keycloak.org/docs/latest/getting_started/#starting-the-keycloak-server),
-* `npm package manager` has to be [downloaded](https://nodejs.org/en/download/) and started.
+* `npm package manager` has to be [downloaded](https://nodejs.org/en/download/) and installed.
 
 ### via Cypress Test Runner
 
